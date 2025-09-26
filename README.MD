@@ -12,3 +12,4 @@ feature-2 commit-4<br /> # new line
 ### feature-3
 feature-3 commit-1<br /> # new line
 feature-3 commit-2<br /> # new line
+feature-3 commit-3<br /> # new line
