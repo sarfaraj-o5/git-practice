@@ -6,4 +6,5 @@ feature-1 commit-2
 ### feature-2 
 feature-2 commit-1<br /> # new line
 feature-2 commit-2.1<br /> # new line
+feature-2 commit-3<br /> # new line
 
