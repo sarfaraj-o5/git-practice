@@ -1,1 +1,13 @@
 ### GIT PRACTICE ###
+Hi, a team member is doing this commit from feature.
+feature-1 commit-2
+
+
+### feature-2 
+feature-2 commit-1<br /> # new line
+feature-2 commit-2.1<br /> # new line
+feature-2 commit-3<br /> # new line
+feature-2 commit-4<br /> # new line
+
+### feature-3
+feature-3 commit-1<br /> # new line
